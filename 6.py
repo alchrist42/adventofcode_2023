@@ -1,11 +1,14 @@
 from pathlib import Path
 from collections import Counter
+from utils import nbs
+
 
 # part 1
 def solve(data: list[str]):
     res = 0
 
     return res
+
 
 # part 2
 
