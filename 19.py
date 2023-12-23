@@ -134,9 +134,9 @@ def solve(data: list[str]):
     processes = []
     n_proc = cpu_count()
     print("procceses count", n_proc)
-    range_x = len(dct["x"]) // n_proc
-    dx = [(range_x * i, range_x * (i + 1))  for i in range(n_proc)]
-    for proc in range(n_proc):
+    range_x = len(dct["x"]) // n_proc + 1
+    dx = [(range_x * i, range_x * (i + 1))  for i in range(n_proc + 1)]
+    for proc in range(n_proc + 1):
         p = Process(target=heavy, args=(r_dct, dct, q, *dx[proc]))
         processes.append(p)
         p.start()
