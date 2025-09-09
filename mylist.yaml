@@ -1,0 +1,29 @@
+# NAME: my-list
+payload:
+  - DOMAIN-SUFFIX,pornhub.com
+  - DOMAIN-SUFFIX,phncdn.com
+  - DOMAIN-SUFFIX,phprcdn.com
+  - DOMAIN-SUFFIX,pornhubpremium.com
+  
+  - DOMAIN-SUFFIX,typingclub.com
+  - DOMAIN-SUFFIX,notion.so
+  - DOMAIN-SUFFIX,notion.com
+  - DOMAIN-SUFFIX,ikea.com
+  - DOMAIN-SUFFIX,ikea.lt
+  - DOMAIN-SUFFIX,sketchup.com
+  - DOMAIN-SUFFIX,zerolab.net
+  - DOMAIN-SUFFIX,prostovpn.org
+  - DOMAIN-SUFFIX,kube.academy
+  - DOMAIN-SUFFIX,enscape3d.com
+  - DOMAIN-SUFFIX,habr.com
+  - DOMAIN-SUFFIX,reddit.com
+  - DOMAIN-SUFFIX,openwrt.com
+  
+  - DOMAIN-SUFFIX,bestchange.com
+  - DOMAIN-SUFFIX,bestchange.net
+  - DOMAIN-SUFFIX,bestchange.ru
+  
+  - DOMAIN-SUFFIX,airbnb.com
+  - DOMAIN-SUFFIX,airbnb.ru
+  
+  - DOMAIN-SUFFIX,ufo.hosting
