@@ -4,6 +4,9 @@ payload:
   - DOMAIN-SUFFIX,phncdn.com
   - DOMAIN-SUFFIX,phprcdn.com
   - DOMAIN-SUFFIX,pornhubpremium.com
+  - DOMAIN-SUFFIX,remium.com
+  - DOMAIN-SUFFIX,mature.nl
+  - DOMAIN-SUFFIX,deviantart.com
   
   - DOMAIN-SUFFIX,typingclub.com
   - DOMAIN-SUFFIX,notion.so
