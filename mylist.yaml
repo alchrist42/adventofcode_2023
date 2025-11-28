@@ -22,7 +22,9 @@ payload:
   - DOMAIN-SUFFIX,reddit.com
   - DOMAIN-SUFFIX,openwrt.com
   - DOMAIN-SUFFIX,rutracker.org
+  - DOMAIN-SUFFIX,russianfood.com
   
+
   
   - DOMAIN-SUFFIX,bestchange.com
   - DOMAIN-SUFFIX,bestchange.net
