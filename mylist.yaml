@@ -23,6 +23,7 @@ payload:
   - DOMAIN-SUFFIX,openwrt.com
   - DOMAIN-SUFFIX,rutracker.org
   - DOMAIN-SUFFIX,russianfood.com
+  - DOMAIN-SUFFIX.iplocation.net
   
 
   
