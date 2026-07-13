@@ -23,14 +23,14 @@ payload:
   - DOMAIN-SUFFIX,openwrt.com
   - DOMAIN-SUFFIX,rutracker.org
   - DOMAIN-SUFFIX,russianfood.com
-  - DOMAIN-SUFFIX.iplocation.net
-  - DOMAIN-SUFFIX.joyreactor.cc
-  - DOMAIN-SUFFIX.openai.com
-  - DOMAIN-SUFFIX.numbeo.com
-  - DOMAIN-SUFFIX.godnotaba.com
-  - DOMAIN-SUFFIX.godnotaba.ru
-  - DOMAIN-SUFFIX.release-assets.githubusercontest.com
-  - DOMAIN-SUFFIX.electrum.org
+  - DOMAIN-SUFFIX,iplocation.net
+  - DOMAIN-SUFFIX,joyreactor.cc
+  - DOMAIN-SUFFIX,openai.com
+  - DOMAIN-SUFFIX,numbeo.com
+  - DOMAIN-SUFFIX,godnotaba.com
+  - DOMAIN-SUFFIX,godnotaba.ru
+  - DOMAIN-SUFFIX,release-assets.githubusercontest.com
+  - DOMAIN-SUFFIX,electrum.org
   
   
   
