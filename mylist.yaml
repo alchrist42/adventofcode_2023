@@ -21,6 +21,7 @@ payload:
   - DOMAIN-SUFFIX,habr.com
   - DOMAIN-SUFFIX,reddit.com
   - DOMAIN-SUFFIX,redditmedia.com
+  - DOMAIN-SUFFIX,redd.it
   - DOMAIN-SUFFIX,openwrt.com
   - DOMAIN-SUFFIX,rutracker.org
   - DOMAIN-SUFFIX,russianfood.com
